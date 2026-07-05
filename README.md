@@ -2,7 +2,10 @@
 purpose: 提供统计与分析课程的自定义函数，降低Python数据分析难度，提高结果可读性，引导选择合适方法。
 status: archived
 next_steps: []
-capabilities: []
+capabilities:
+  - python-statistics-helpers
+  - data-analysis-teaching
+  - statistical-method-selection
 ---
 统计与分析课程自定义函数，主要目标：
 
